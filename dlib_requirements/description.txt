@@ -3,3 +3,11 @@ This repo contains the models:
      # face_recognition_resnet_model_v1.dat
 You can download those models from the official link dlib
 Those models are required for this project, so please download them!
+
+open the terminal
+cd dlib_requirements
+
+wget http://dlib.net/files/shape_predictor_5_face_landmarks.dat.bz2
+wget http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2
+
+DO NOT FORGET TO EXTRACT .dat FROM THE COMPRESSED VERSION .dat.bz2!
