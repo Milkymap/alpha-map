@@ -1,0 +1,5 @@
+This repo contains the models:
+     # shape_predictor_68_face_landmarks.dat
+     # face_recognition_resnet_model_v1.dat
+You can download those models from the official link dlib
+Those models are required for this project, so please download them!
